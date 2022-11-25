@@ -1,0 +1,1553 @@
+cta - ct angiography
+no
+us - ultrasound
+xr - plain film
+noncontrast
+yes
+t2
+ct w/contrast (iv)
+mr - flair
+mammograph
+ct with iv contrast
+this a t1 weighted image?
+gi and iv
+t1
+mr - t2 weighted
+mr - t1w w/gadolinium
+contrast
+iv
+an - angiogram
+mra - mr angiography/venography
+nm - nuclear medicine
+mr - dwi diffusion weighted
+ct - gi & iv contrast
+ct noncontrast
+mr - other pulse seq.
+ct with gi and iv contrast
+flair
+mr - t1w w/gd (fat suppressed)
+ugi - upper gi
+mr - adc map (app diff coeff)
+bas - barium swallow
+pet - positron emission
+mr - pdw proton density
+mr - t1w - noncontrast
+be - barium enema
+us-d - doppler ultrasound
+mr - stir
+mr - flair w/gd
+ct with gi contrast
+venogram
+mr t2* gradient,gre,mpgr,swan,swi
+mr - fiesta
+ct - myelogram
+gi
+sbft - small bowel
+axial
+longitudinal
+coronal
+lateral
+ap
+sagittal
+mammo - mlo
+pa
+mammo - cc
+transverse
+mammo - mag cc
+frontal
+oblique
+3d reconstruction
+decubitus
+lung, mediastinum, pleura
+skull and contents
+genitourinary
+spine and contents
+musculoskeletal
+heart and great vessels
+vascular and lymphatic
+gastrointestinal
+face, sinuses, and neck
+breast
+cryptococcal pneumonia in an immunocompetent host
+arteriovenous malformation (avm)
+ectopic pregnancy
+bone tumor/ chordoma
+burst fracture
+triplanar fracture of the distal tibia
+salter-harris fractures, salter and harris
+persistent left svc
+circumaortic left renal vein
+epidermoid tumor
+splenic artery aneurysm
+congenital pulmonary vein stenosis
+mature cystic teratoma
+hyperdense middle cerebral artery sign
+segmental omental infarct
+esophageal b-cell lymphoma
+ankylosing spondylitis
+plantar fibromatosis
+hydranencephaly
+invasive ductal carcinoma
+sarcoidosis
+septo-optic dysplasia (demorsier syndrome)
+situs inversus totalis
+sialolithiasis, obstructing sialolith
+passive hepatic congestion
+non-small cell lung cancer
+gynecomastia
+adenocarcinoma of the esophagus
+developmental venous anomaly
+cystic hygroma (turner's syndrome)
+spine, epidural abscess
+imaging in traumatic brain injury
+hilar cholangiocarcinoma (klatskin tumor)
+diverticulitis
+arnold-chiari malformations
+greater occipital nerve entrapment
+arachnoid cyst
+adrenal myelolipoma
+renal angiomyolipoma
+infiltrating ductal carcinoma
+achondroplasia
+acute dural venous sinus thrombosis (dvst), secondary temporal lobe venous hemorrhagic infarction
+right sided aortic arch with aberrant left subclavian artery
+odontogenic keratocyst of the mandible
+osteopenia, osteoporosis
+non-hodgkin's lymphoma - b-cell lymphoma
+lemierre's syndrome
+fat embolism
+skull fracture from cell phone
+abpa (allergic bronchopulmonary aspergillosis)
+importance of recognizing vascular anatomy in chemoembolization
+benign orbital calcifications
+atypical teratoid/rhabdoid tumor
+dural sinus thrombosis
+subacute painless thyroiditis with transient hyperthyroidism
+arachnoid cyst with extension through third ventricle into lateral ventricle
+wilms tumor, stage iv
+arachnoid cyst associated, spontaneous subdural hematoma
+dermoid cyst
+brain abscess, central nervous system
+adrenal adenoma
+neurofibromatosis type 1 with hypothalmic and chiasmatic glioma
+astrocytoma, grading and subtypes
+nasopharyngeal carcinoma
+acute appendicitis
+congenital pseudoarthrosis of the clavicle
+ependymoma
+pericardial effusion following open heart surgery
+glioblastoma multiforme
+gray matter heterotopia, focal type
+orbital retrobulbar dermoid cyst
+cerebral infarction
+otosclerosis
+osteoid osteoma
+craniopharyngioma
+squamous cell lung cancer
+colon cancer
+portal venous thrombosis
+plantaris tendon tear
+patients a and b: ┬áacute retroperitoneal hematoma
+gastroschisis
+crohn's disease
+choroid plexus cyst
+guillain-barre syndrome
+liver hemangioma
+spontaneous thoracic esophageal perforation (boerhaave's syndrome)
+azygous lobe
+cerebral venous thrombosis
+epiploic appendigitis.
+epidermoid brain tumor (epidermoid inclusion cyst)
+meningioma, multiple
+sporadic burkitt's lymphoma (diffuse small noncleaved cell lymphoma)
+ruptured aortic aneurysm
+umbilical venous catheter
+spongioform encephalopathy, presumed variant creutzfeldt-jakob disease
+pheochromocytoma, bilateral
+hodgkin's lymphoma
+anaplastic ependymoma
+nodular sclerosing hodgkinΓÇÖs lymphoma
+autosomal recessive polycystic kidney disease
+craniosynostosis; scaphocephaly
+ovarian hernia
+lung adenocarcinoma and cns metastasis
+hydrocephalus secondary to intraventricular hemorrhage. ┬áperiventricular leukomalacia
+femoroacetabular impingement (fai)
+hepatic congestion secondary to congestive heart failure
+acute disseminated encephalomyelitis (adem)
+paranasal sinus mucocele
+achillesΓÇÖ-tendon xanthoma in familial hypercholesterolemia
+metastatic bronchogenic carcinoma
+moya-moya
+epidural spinal hematoma
+pulmonary embolism
+neurocytoma, central neurocytoma
+psoriatic arthritis
+paradoxic embolization, patent foramen ovale, cerebral infarction
+quadriceps tendon rupture
+twinkle artifact
+bilateral cavernous sinus metastatic lymphoma
+scimitar syndrome in infant
+vestibular schwannoma
+morton's neuroma
+emphysematous cholecystitis
+pulmonary arteriovenous malformation
+hepatoblastoma
+congenital carpal fusion
+burkitt's lymphoma
+tuberous sclerosis (bourneville disease)
+ovarian vein thrombosis
+superficial siderosis of the cns meninges
+subcapsular hematoma of liver
+craniosynostosis coronal suture
+acromioclavicular joint separation (grade iii)
+spinal dural arteriovenous fistula
+tuberous sclerosis complex (tsc)
+gastrointestinal stromal tumor (gist)
+aminoaciduria
+meningioma
+osteomyelitis
+schwannoma
+anaplastic astrocytoma, grade iii, grade 3
+nonossifying fibroma
+lemierreΓÇÖs syndrome
+spondyloepiphyseal dysplasia tarda
+shingles, varicella zoster, chicken pox
+hypothalamic glioma
+tuberous sclerosis
+angiomyolipoma
+hepatic abscess
+rickets
+cryptococcus, cryptococcoma
+celiac, abdominal aorta, & common iliac aneurysms
+acute myelogenous leukemia, aml
+leptomeningeal sarcoid
+adult medulloblastoma
+neurosarcoid, cns sarcoid
+colloid cyst, mr and ct characteristics
+spontaneous pneumomediastinum
+traumatic carotid-cavernous fistula
+sheehan's syndrome
+cerebral aneurysm
+median arcuate ligament syndrome
+abscess, pyogenic
+langerhan cell histiocytosis
+coarctation of the aorta
+pericardial effusion with tamponade
+ureteral stone, perinephric fluid
+hemiazygous and azygous continuation of the inferior vena cava
+hypertrophic pyloric stenosis
+pituitary microadenoma
+fractures of the base of the fifth metatarsal
+central pontine myelinolysis (cpm) (osmotic myelinolysis)
+venous infarction
+dermoid cyst, nasofrontal with remnant tract to skin surface.
+diffuse cerebral edema - mimic of sah
+bilateral carotid body tumors
+bucket handle meniscal tear of the knee
+diffuse cerebral edema, swelling
+fibrosarcoma
+spinal cord lipoma
+rathke cleft cyst
+angiosarcoma
+neurofibromatosis-1, nf1, nf-1
+diffuse esophageal spasm
+osteosarcoma
+myxopapillary ependymoma.
+focal nodular hyperplasia
+spigelian hernia
+poorly differentiated non-small cell lung carcinoma
+thromboembolic stroke
+cystic meningioma, atypical
+crossed fused ectopia
+supracondylar fracture
+splenosis
+invasive lobular carcinoma
+cleidocranial dysostosis/dysplasia
+achalasia
+acute cerebral infarction, value of noncontrast ct
+c-spine fracture
+endometrial atrophy with polyp
+pancreatic adenocarcinoma
+skull cap in anterior abdominal wall
+dieulafoy's lesion: ┬áan angiographic finding of a gastric avm
+schizencephaly
+non-hodgkinΓÇÖs lymphoma, staging ┬ástage i nhl
+chiari 3 malformation cervical-occipital encephalocele
+duplicated renal collecting system
+bacterial pneumonia
+agenesis of the corpus callosum heterotopic subependymal grey matter
+dnet (dysembryoplastic neuroepithelial tumor)
+leigh's disease (subacute necrotizing encephalopathy).
+histoplasmosis
+postcatheterization pseudoaneurysm
+metastatic disease from colonic carcinoma
+basilar artery thrombosis, cerebral infarction
+bicuspid aortic valve
+kyphoplasty cement leak
+colon adenocarcinoma
+vasculitis, vasculitides
+dermoid cyst (cystic teratoma)
+hereditary nonpolyposis colon cancer
+leptomeningeal carcinomatosis
+pleomorphic adenoma
+aberrant right subclavian artery (arsa)
+hematometrocolpos
+pilomyxoid astrocytoma (pma), who grade 2
+acute pediatric osteomyelitis
+chordoma
+calcium pyrophosphate dihydrate (cppd) crystal deposition disease
+glioblastoma
+t-99m hdp and subacute osteomyelitis
+facial trauma s/p mva
+ballistic fragment in the psoas muscle
+visual fields, differential diagnosis
+round atelectasis
+embryonal carcinoma
+femoral pseudoaneurysms
+early onset breast cancer
+pancreatic carcinoma
+testicular microlithiasis
+herpes encephalitis
+pneumatocele
+fibrous dysplasia
+adenocarcinoma of the lung
+abdominal abscess
+blount's disease
+epidermoid cyst
+multiple c1 fractures
+ventriculus terminalis
+orbital cellulitis
+talocalcaneal coalition
+choroid plexus papilloma
+toxoplasmosis
+blowout fracture of orbit
+trigeminal schwannoma (cn v)
+glioblastoma multiforme and gliomatosis cerebri
+transscaphoid-transtriquetrial perilunate fracture dislocation
+subcutaneous abscess
+low grade diffuse astrocytoma
+sturge weber syndrome
+vertical shear or malgaigne fracture
+acute bilateral subdural hematomas, convexity, interhemispheric, tentorial
+midgut malrotation
+giant cell tumor
+congital absence of the internal carotid artery
+graft-versus-host disease
+papillary carcinoma of the thyroid
+anterior dislocation right shoulder
+bilateral locked facets
+avascular necrosis
+subependymoma, lateral ventricle
+choroid plexus cysts. ┬ápatient a: ┬ánormal fetus. ┬ápatient b: ┬átrisomy 18
+cavernous hemangioma
+gastric diverticula
+malignant peripheral nerve sheath tumor (mpnst)
+cryptorchidism
+cholelithiasis
+pilocytic astrocytoma
+posterior inferior cerebellar artery infarct
+killian-jamieson diverticulum
+cerebellar astrocytoma (pilocytic astrocytoma)
+cerebral infarction (stroke)
+mondini syndrome
+acl tear
+pyopneumothorax
+pyonephrosis
+coil embolization of a dialysis fistula
+segond fracture with asssociated anterior cruciate ligament tear
+supra-renal inferior vena cava clot
+chondrocalcinosis
+rickets due to renal failure
+hepatocellular carcinoma and bone metastasis.
+mucus rentention cyst
+functional immaturity of the colon - small left colon syndrome
+osteogenesis imperfecta
+childhood brain tumors, epidemiology, demographics
+intracranial lipoma
+aneurysmal dilation of the vein of galen secondary to av fistulae (vein of galen aneurysm)
+gout
+reduction mammoplasty
+usuhs faculty senate, education committee, 2010-2011
+osteiitis condensans ilii
+seminoma
+multiple hereditary exostosis
+dysembryoplastic neuroepithelial tumors (dnet)
+subdural empyema
+ganglioglioma
+pachygyria with schizencephaly septo-optic dysplasia
+thyroglossal duct cyst (tgd)
+eosinophilic esophagitis
+cerebellopontine angle meningioma
+metastatic adenocarcinoma of the lung
+paget disease of bone
+urachal remnant
+testicular epidermoid cyst
+cns prenchymal metastasis
+cranial nerve anatomy and atlas
+gray matter heterotopia, doublecortin
+rupture of cerebral abscess into the ventricular system (pyocephalus)
+benign and malignant cystic ovarian tumors. ┬ápatient a: ┬áserous cystadenoma. ┬ápatient b: ┬ámucinous cystadenoma. ┬ápatient c: ┬ápapillary serous cystadenocarcinoma.
+talocalcaneal tarsal coalition
+left aortic arch with aberrant right subclavian artery
+optic neuritis
+colloid cyst
+adhesive capsulitis
+acute multiple sclerosis - enhancing lesion with mass effect.
+carpal coalition
+horseshoe kidney
+emphysematous pyelonephritis
+severe diffuse axonal injury (shearing injury) of the lobar white matter, corpus callosum, and cerebellum with cortical edema
+ruptured appendicitis
+incorrect picc line placement.
+gastrointestinal stromal tumor
+silicone globe injection
+svc duplication
+bronchial carcinoid
+lauge hansen stage iv supination-external rotation fracture
+intradural extramedullary meningioma.
+pseudomembranous colitis
+odontoid fracture
+hypoxic/ischemic encephalopathy
+medulloblastoma
+neurosarcoid
+transient osteoporosis of the hip
+heterotaxia syndrome with polysplenia
+pituitary macroadenoma
+diffuse large b-cell lymphoma
+chromophobe renal cell carcinoma
+cavernous malformation (cavernous angioma)
+brain abscess (gram positive cocci)
+inflammatory pseudotumor, myofibroblastic tumor
+atlas fracture
+lipomatous hypertrophy of the interatrial septum
+spondylodiskitis with epidural abcess of the cervical spine
+pneumomediastinum
+sclerosing stromal tumors
+charcot joint
+choroid plexus neoplasm, papilloma, carcinoma
+intraventricular meningioma
+spinal tuberculosis/potts disease
+small bowel lymphoma
+osteochondritis dissecans
+aortic dissection
+incidental malrotation and acute appendicitis
+hypothalamic hamartoma
+multiple osteochondromatosis
+central neurocytoma
+cryptococcal meningoencephalitis
+fracture of the base of 5th metatarsal.
+duodenal duplication cyst
+meningioma, who grading system
+cerebral arteriovenous malformation (avm)
+unilateral megaloencephaly, hemimegalencephaly
+lhermitte duclos
+absent septum pellucidum
+pleomorphic ┬áxanthoastrocytoma, pxa
+tophaceous gout
+pulmonary sequestration
+full-thickness rotator cuff tear
+reversible encephalopathy syndrome (pres)with hemorrhage
+empyema
+testicular seminoma
+iatrogenic pneumoperitoneum
+bilateral subacute (isodense) subdural hematomas
+varicocele
+intracranial hypotension
+renal infarct
+arteriovenous malformation
+hypertrophic pulmonary osteoarthropathy
+multiple sclerosis
+cranial acetabular retroversion
+hematobilia (hemobilia)
+pcp pneumonia (pneumocystis jiroveci pneumonia)
+pituitary apoplexy
+metastatic renal cell carcinoma (1999 uniformed services seminar)
+chondrosarcoma
+necrotizing fasciitis
+subclavian central venous catheter fracture and embolization
+radiofrequency ablation of osteoid osteoma
+cavum septi pellucidi
+chance-type fracture
+parathyroid adenoma
+torus (buckle) fracture
+adenomyomatosis
+rectovaginal fistula
+hill-sachs deformity with associated bankart lesion
+hemangioblastoma
+bochdalek hernia
+brain, cerebral abscess
+peripheral vascular disease
+benign metastasizing leiomyoma
+percutaneous nephrostomy
+odontoid process fracture, type ii
+right vertebral artery dissection, lateral medullary syndrome (wallenberg syndrome)
+femoral-popliteal graft occlusion
+thymic cyst - benign mediastinal cysts
+synovial cyst
+crohnΓÇÖs disease
+lateral notch sign
+vestibular (acoustic) schwannoma
+aneurysm, cerebral
+dva, developmental venous anomaly, venous angioma
+pneumothorax
+pleural effusion
+cervical ribs
+carotid-cavernous ┬áfistula
+hepatic hemangioma
+ruptured ectopic pregnancy
+lobar holoprosencephaly
+medial deviation of internal carotid artery
+langerhans cell histiocytosis
+superscan
+popliteal aneurysm
+colloid (neuroepithelial) cyst of the third ventricle
+scapholunate dissociation
+cavum vergae
+liposarcoma, myxoid liposarcoma
+foregut cyst
+adamantinomatous craniopharyngioma
+wilson's disease, hepatolenticular degeneration
+subperiosteal orbital abscess
+cerebellar hemangioblastoma
+fibromatosis colli
+gastrointestinal stromal tumor, middle mediastinum
+intestinal malrotation
+inguinal hernia involving bladder
+hypertensive intracerebral hemorrhage
+pancoast tumor
+zenker's diverticulum
+mega-cisterna magna
+active pulmonary tuberculosis
+enchondroma with pathologic fracture
+pulmonary hamartoma
+cysticercosis
+aspergillosis and the air-crescent sign
+juvenile pilocytic astrocytoma
+appendicitis
+pulmonary embolus
+allergic bronchopulmonary aspergillosis (abpa)
+simple ureteroceles
+lumbar spinal stenosis
+motor vehicle accident and multiple sclerosis exacerbation
+mastoiditis
+thyroid acropachy
+monostotic fibrous dysplasia
+pancreatic mucinous cystadenoma
+intracranial venous thrombosis
+sequestration, intralobar bronchopulmonary
+cavitary squamous cell carcinoma
+brain abscess vs. cerebritis
+dural av fistulae
+testicular torsion
+opll - ossification of the posterior longitudinal ligament
+carotid body tumor
+myxoid liposarcoma, metastatic to chest wall
+subependymal gray matter heterotopia
+bucket-handle meniscal tear
+testicular fracture
+intracranial venous anomaly or malformation , ┬á┬ádevelopmental venous anomaly
+hirschsprung's disease
+adem vs. pediatric ms vs. devic (nmo)
+gastric trichobezoar (hairball), rapunzel syndrome
+medial collateral ligament injuries
+acute skull osteomyelitis following peri-orbital cellulitis
+testicular neoplasm
+vestibular schwannoma ("acoustic"schwannoma)
+schwannoma, thoracic
+uterus didelphys with hematometrocolpos and multicystic dysplastic kidney
+acute bacterial meningitis
+fibrillary astrocytoma
+congenital diaphragmatic hernia
+spondylolysis
+brain death
+scimitar syndrome
+silicone granulomas
+conal lesions: graves orbitopathy
+solitary pulmonary nodule - calcified granuloma
+malignant mesothelioma
+papillary tumor of pineal region
+agenesis of the corpus callosum
+cardiogenic pulmonary edema ΓÇô chf exacerbation secondary to new onset atrial fibrillation.
+scheuermann kyphosis
+hiatal hernia vs thoracic aortic aneurysm in relationship to trauma
+pneumatosis coli
+sacral stress (fatigue) fracture
+colloid cyst, neuroepithelial cyst, endodermal cyst
+sialadenitits
+seminal vesicles
+uterine leiomyoma (fibroid)
+straight sinus aneurysm
+biliary cystadenoma
+calcific tendinitis
+duplicated inferior vena cava
+basilar artery ┬áaneurysm (basilar tip aneurysm)
+goalkeeper's torus fracture of the distal radius
+sickle cell anemia
+extraskeletal sarcoma
+chronic eosinophilic pneumonia
+giant tumefactive perivascular spaces
+transjugular intrahepatic portosystemic shunt (tips)
+benign enlargement of the subarachnoid spaces in infants
+radial head fracture
+puerperal (post-partum) septic pelvic thrombophlebitis
+soft-tissue uptake on bone scan
+glioblastoma multiforme, gbm
+spine, spinal stenosis
+nontraumatic subarachnoid hemorrhage
+desmoplastic ┬ámedulloblastoma
+spondylolisthesis, bilateral l3 pars defects
+neurofibromatosis type 1
+avm, arterio-venous malformation, vascular malformation
+orchitis
+sjogren's syndrome
+ependymal neoplasms, ependymoma
+the patellar plica syndrome
+neuroblastoma
+fibromuscular dysplasia, renal infarct
+microcoil embolization of a lower gastrointestinal bleed
+brain herniation
+cisterna chyli
+brain tumor and cancer protocols
+5th metatarsal stress fracture
+gallstone ileus/incidental colon carcinoma
+cerebral arterial dolichoectasia with acute cerebral infarction
+torch infections
+plantar plate disruption
+meningioma, radiation induced
+fronto-nasal encephalocele
+left optic nerve glioma, neurofibromatosis 1 (nf1)
+meconium plug syndrome (small left colon syndrome)
+aortic aneurysm
+cerebral vascular accident
+pineal gland cyst
+anoxic brain injury, anoxia
+congenital cytsic adenomatoid malformation of the lung
+nephrolithiasis
+intraosseous lipoma
+atlantoaxial subluxation
+osteoma, head and neck
+glomus tympanicum and glomus jugulare tumors (paraganglioma)
+adenomyosis
+hydrosalpinx
+disc herniation with free fragment
+spermatocele
+carbon monoxide poisoning
+simple bone cyst
+marfan's syndrome
+ulcerative colitis
+morquio-brailsford disease
+intussusception
+erectile dysfunction
+anaplastic oligodendroglioma
+pituitary, hyperprolactinemia
+spontaneous osteonecrosis of the knee
+carotid artery dissection
+microcystic (serous) adenoma of the pancreas
+lymphomatous meningitis
+fibro osseous lesions of the face and sinuses (fibrous dysplasia)
+uterine synechiae
+asbestos related pleural disease
+x-linked adrenoleukodystrophy
+hiatal hernia
+langerhans cell histiocytosis (eosiniphilic granuloma of bone)
+chiari i malformation
+germinal matrix hemorrhage
+oculo-auriculo-vertebral syndrome (oavs)
+chordoid glioma
+aberrant right subclavian artery
+inflammatory erosive osteoarthritis
+intracranial epidermoid cyst
+l5-s1 extruded disk fragment
+transient hepatic attenuation difference
+dehiscent julgular bulb
+chronic fungal sinusitis
+croup
+recurrent shoulder dislocation/instability
+acute pyelonephritis
+endometrioma
+hereditary multiple exostoses
+sagittal craniosynostosis
+ewings sarcoma of the skull
+lemierre syndrome
+cerebral arterial dolichoectasia
+meniscal tear
+glioblastoma multiforme (gbm)
+herpes simplex encephalitis (hse)
+parosteal osteosarcoma
+dural ┬áfistula, avf
+hydroxyapatite crystal deposition disease
+retrocaval ureter
+chiari ii malformation
+fine needle aspiration of lung lesions
+appendiceal rupture
+pancreatic mass
+intracranial epidermoid cyst (retroclival)
+diffuse idiopathic skeletal hyperostosis (dish), cervical and thoracic spine fractures
+intramedullary (intradural-intramedullary), spinal lesions
+cholangiocarcinoma
+calyceal diverticulum
+complete fracture
+ruptured infrarenal abdominal aortic aneurysm
+rheumatoid arthritis
+diffuse midline glioma (pontine glioma h3k27m status unknown)
+pulmonary langerhans cell histiocytosis
+hepatocellular carcinoma - radiology - cytology correlation
+morgagni hernia (adult, incidental)
+acromegaly vs. gigantism, human growth hormone
+pacemaker lead fracture
+pinch-off syndrome
+patellar tendon rupture
+vertebra plana
+ruptured left pica aneurysm
+splenic laceration
+carotid cavernous fistula
+venous thrombosis of the vein of galen, straight sinus, and dominant left transverse venous dural sinus.
+brain, parenchymal hemorrhage, contusion
+ewing's sarcoma
+scapholunate advance collapse (slac) wrist
+thoracic neuroblastoma
+plantar fasciitis
+grave's ophthalmopathy
+schizencephaly (open-lip and closed-lip)
+ectopic pregnancy.
+giant hydronephrosis, with hydroureter secondary to large ureterolith.
+cardiac fibroma
+preseptal cellulitis
+neuromyelitis optica (devic syndrome, devic's disease) diagnostic criteria
+acute disseminated encephalomyelitis
+paragangliomas of the head and neck, nomenclature
+stress fracture tarsal navicular bone
+legg-calve-perthes
+portal vein embolization
+sonographic signs of acute cholecystitis
+comminuted fracture of medial femoral condyle. small joint effusion.
+intralobar pulmonary sequestration
+walker warburg syndrome
+cavernous angioma
+arnoldΓÇôchiari malformation i with syrinx
+chondroblastic osteosarcoma
+pulmonary interstitial emphysema (pie)
+pulmonary thromboembolism
+germinoma, intracranial primary
+optic nerve
+head trauma, tbi, falls
+double aortic arch
+syringomyelia
+primary lymphoma of the bladder
+optic nerve staphyloma
+acromioclavicular joint separation
+staghorn calculus
+aneurysm
+progression of low-grade glioma to high-grade glioma
+spiral salter-harris ii fracture
+central nervous system lymphoma
+pneumatosis intestinalis and portal venous gas
+annular "apple core" colonic lesion: a differential diagnosis.
+cephalocele
+spinal cord astrocytoma
+scapholunate advanced collapse
+differentiating lumbar discopathy from protrusion acetabula
+pyogenic hepatic abscess
+corpus callosum lipoma
+mca territory infarction
+inflammatory breast cancer
+silent sinus syndrome
+glioblastome multiforme (gbm)
+brachytherapy seed embolization
+renal crossed fused ectopia
+compound composite odontoma
+pneumocystis jiroveci (p. carinii) pneumonia
+pediatric pneumonia (round pneumonia)
+marfan's syndrome resulting in aortic root dilation
+epidermoid inclusion cyst
+sturge-weber ┬ásyndrome
+astrocytoma, low-grade (who 2), supratentorial
+combined jefferson and hangman's fractures
+hunter syndrome
+broncholithiasis
+carpal predominant rheumatoid arthritis
+depressed ┬áskull ┬áfractures
+oligodendroglioma
+alveolar proteinosis
+choanal atresia and congenital nasal airway obstruction
+ependymoma cervical spinal cord
+acute pancreatitis
+pnematosis intestinalis
+pres - posterior reversible leukoencephalopathy (rpl or reversible post. encephalopathy)
+ovarian torsion
+grenade fragment stable in transverse foramina of the vertebrae
+quadrilateral space syndrome
+hemorrhage in basal ganglia, hypertensive, acute stroke
+gi bleeding, coil embolization
+bronchiectasis
+intervertebral disk herniation
+morgagni hernia
+mca territory cerebral infarction
+hemangioblastoma profile
+post-operative internal carotid artery fistula, level of ophthalmic artery.
+ruptured meckel's cave dermoid inclusion cyst
+cerebral hyperperfusion syndrome
+vertebral artery dissection with cerebellar infarction
+lipoma of transverse colon
+intracranial dermoid inclusion cyst
+pelligrini-stieda lesion
+intrinsic sclerotic bone dysplasia (likely osteopetrosis) with fracture
+papillary glioneuronal tumor
+atlantoaxial instability
+obstructive hydrocephalus (at level of sylvian aqueduct)
+traumatic transient lateral patellar dislocation.
+invasive aspergillosis
+aortic dissection, aortic tear
+dystrophic breast calcifications
+lumbar herniated disc
+mesial temporal sclerosis
+internal disc disruption
+pleuropulmonary blastoma
+wernicke encephalopathy
+pectus excavatum
+grade iii acromioclavicular joint separation
+retinoblastoma
+lymphangioleiomyomatosis
+enchondroma
+dural sinus thrombosis, blood clot
+osteochondritis dissecans and trauma
+proximal humerus fracture
+gastric volvulus (organoaxial)
+aberrant pulmonary vein
+medial migration of tympanostomy tube
+parosteal osteogenic sarcoma
+eagle syndrome
+transitional cell carcinoma
+large bowel obstruction secondary to sigmoid stricture
+fatty replacement of the pancreas secondary to cystic fibrosis
+balo concentric sclerosis
+abdominal aortic aneurysm (aaa)
+left lower lobe collapse
+semilobar holoprosencephaly
+dacryocystocele, tears
+chronic subdural hematomas
+heterotopic gray matter in the subependymal region of the lateral ventricles. (supependymal gray matter heterotopia)
+yolk sac tumor
+c5-6 extruded disk fragment on right
+infiltrating ductal carcinoma of the breast
+breast implant, ┬árupture, extracapsular silicone
+ranula
+radiation necrosis
+clival chordoma
+extraventricular neurocytoma
+shaken baby syndrome
+extruded lumbar disk herniation
+toxic megacolon
+ameloblastoma
+port site hernia mimicing a spigelian hernia
+presbyesophagus
+glioblastoma multiforme (gbm, astrocytoma grade 4/iv)
+fibro osseous lesions of the face and sinuses
+enlarged subarachnoid space
+right upper lobe pneumonia.
+arachnoid granulation
+fingerprint artifact
+vesicoureteral reflux
+ganglioneuroma
+closed-lip schizencephaly, incidental aneurysm
+right aortic arch
+usual interstitial pneumonia
+compound paraesophageal hernia
+patellar tendinosis (jumper's knee)
+cervical nerve root avulsion
+early appendicitis
+ectopic posterior pituitary
+tumefactive multiple sclerosis
+bone metastasis, secondary to prostate cancer.
+posterior reversible encephalopathy syndrome (pres)
+transitional cell carcinoma, bladder
+high grade common bile duct obstruction
+spondylolisthesis
+malrotation
+primary lymphoma of bone
+adpkd -autosomal dominant polycystic kidney disease
+uterine fibroid embolization
+ovarian cancer
+peritoneal carcinomatosis secondary to ovarian adenocarcinoma
+primary cns lymphoma in aids
+hereditary hemorrhagic telangiectasia (hht) and pulmonary arteriovenous malformation (avm)- osler-weber-rendu
+fibrous dysplasia of the hip
+chiari iii hindbrain malformation with large occipital encephalocele
+renal disease in systemic lupus erythematosus (sle) versus c3 glomerulonephritis
+common carotid occlusion
+situs inversus with dextrocardia
+takayasu arteritis
+diastematomyelia
+chloroma
+pulmonary septic emboli
+upper gi tract diverticula
+papillary thyroid cancer
+child abuse, timing of subdural hematoma (sdh)
+caudal regression syndrome
+cerebral infarct (l mca territory)
+external auditory canal, ear canal, schwannoma
+tuberous sclerosis complex
+moyamoya disease
+pericardial cyst
+pilocytic astrocytoma of the posterior fossa
+cervical hemangioblastoma
+blowout fracture of orbit.
+lefort type 1 fracture
+hepatic adenoma
+arterial pseudoaneurysm
+renal tubular acidosis, medullary nephrocalcinosis
+desmoid tumor.
+anticoagulation, complication, abdominal wall hematoma
+classical hodgkins lymphoma, nodular sclerosis subtype
+ileal diverticulosis
+subarachnoid hemorrhage
+early cerebral infarction
+gliofibroma
+lipomyelomeningocele with spinal cord syrinx
+talonavicular coalition / ball-and-socket ankle
+anterior cruciate ganglion
+ossified posterior longitudinal ligament (opll)
+raynaud's disease
+choledochal cyst
+fibrous dysplasia of maxilla
+mycoplasma pneumonia
+liposclerosing myxofibrous tumor of bone (lsmft)
+hydronephrosis
+fracture dislocation at c6-c7.
+rule-out ectopic pregnancy
+cerebrospinal fluid hyperintensity on flair imaging from oxygen administration
+epidural hematoma, talk and die syndrome, lucid interval
+spinal osteochondroma
+polymicrogyria, bilateral.
+osteitis condensans ilii (illei)
+gallbladder polyp
+necrotizing pancreatitis
+endolymphatic sac tumor
+paraesophageal hernia, hiatus hernia
+pineocytoma
+right middle lobe pneumonia
+pigmented villonodular synovitis (pvns)
+granular cell tumor
+bronchogenic cyst, congenital
+cavernous hemangioma, intracranial, temporal lobe
+chronic osteomyelitis
+topic: lumbar instability: functional and anatomic
+breast cancer, metastatic
+popliteal entrapment syndrome
+cholesterol granuloma of the petrous apex
+surgical storage of craniotomy fragment pending definitive management
+multiple myeloma
+sacroiliitis
+nephrolithiasis - simultaneous uvj and upj obstruction
+mr spectroscopy, neoplasm vs. radiation
+location of mucoceles
+celiac artery aneurysm
+cystic fibrosis
+bronchioloalveolar cell carcinoma (bac)
+vestibular ('acoustic') schwannoma
+traumatic aortic injury
+enostosis
+chondrosarcoma of the skull base
+spine, angiolipoma
+hemangioma skull base
+ewing sarcoma
+partial anomalous pulmonary venous drainage and scimitar syndrome
+aortic pseudoaneurysm
+microtia and atresia of the external auditory canal and middle ear stuctures
+adrenal rest tumor
+vertebral hemangioma
+distal clavicle osteolysis
+anaplastic ganglioglioma (who grade iii)
+esophageal duplication cyst
+gunshot wound to the chest
+orbital optic nerve meningioma
+klippel trenaunay weber syndrome
+os acromiale
+anastamotic pseudoaneurysm
+vacterl syndrome
+renal ectopia with horseshoe kidney
+open lip schizencephaly
+holoprosencephaly
+medullary sponge kidney
+amyloidosis
+renal injury
+pleural lipoma
+intracranial internal carotid artery aneurysm
+os acromiale.
+inflammatory breast carcinoma
+transmesenteric hernia (internal hernia), small bowel volvulus
+cavernous angioma with dva
+facial nerve paralysis
+meckel's diverticulum
+paraganglioma
+exophytic uterine leiomyoma
+renal oncocytoma
+acute mesenteric ischemia
+av canal mitral valve regurgitation
+penetrating injury (gunshot wound) to the head and temporal bone.
+compression ultrasound diagnosis of lower extremity deep vein thrombosis
+nonspecific interstitial pneumonitis
+anterior shoulder dislocation/instability
+fluoroscopic evaluation of the small bowel in crohnΓÇÖs ileitis
+thyroid ┬ágland hemiagenesis
+mycotic aneurysm
+osteoma skull
+acetabulum, labrum tear
+anaplastic astrocytoma
+alpha 1-antitrypsin (serum trypsin inhibitor) deficiency
+renal cell carcinoma
+metastatic melanoma
+ureteral diverticulum
+placenta previa
+ankylosing spondylitis with fracture through the t10-11 disc
+oropharyngeal cancer
+dandy-walker malformation
+infantile multicentric myofibromatosis
+duodenal atresia
+primary cns lymphoma
+traumatic ruptured spleen
+spontaneous intestinal perforation
+unicameral (simple) bone cyst
+aortic nipple
+posterior urethral valves
+westermark's sign from thromboembolic disease
+non-union of old scaphoid fracture with intraossous cysts
+wilmsΓÇÖ tumor, stage i (stage iii at biopsy) with favorable histology
+metastatic malignant melanoma
+retroperitoneal neurofibroma
+hepatocellular carcinoma - case of a large hypoechoic hepatoma
+biliary leak, status post laparoscopic cholecystectomy
+labyrinthine aplasia
+alzheimer disease
+cerebral infarct
+anoxic brain injury due to acute basilar artery thrombosis
+asthma and pneumomediastinum
+neurofibromatosis type 1, diagnostic criteria
+cecal volvulus
+cord infarct with secondary atrophy
+primary sclerosing cholangitis
+tracheal stenosis
+oligodendroglioma, profile and who grade
+longitudinal petrous (temporal bone) fracture
+rosette forming glioneuronal tumor of the pineal gland
+pheochromocytoma
+wernicke encephalopathy, korsakoff psychosis, and wernicke-korsakoff syndrome
+acute cholecystitis
+ollier's disease, enchondormatosis
+omphalocele
+intussusception, adult
+nonketotic hyperglycemic hemichorea hemiballismus
+odontoma
+aortic coarctation
+right femoral neck fracture
+congenital cytomegalovirus infection
+pseudotumor ┬ácerebri ("benign" idiopathic intracranial hypertension)
+esophageal lipomatosis
+pediatric depressed skull fracture
+complex nasoethmoid and orbit fractures with pneumoorbita and pneumocephalus
+left infrarenal inferior vena cava
+avulsion fracture of the anterior superior iliac spine
+brain metastasis, sources and locations
+baastrup's sign
+subcortical band heterotopia. diagnosis was confirmed with brain mri.
+intravascular lymphomatosis
+dacrocystitis
+middle interhemispheric variant of holoprosencephaly
+anaplastic meningioma
+left medial meniscal posterior horn tear, grade 3
+jejunal atresia
+misme-too - neurofibromatosis type 2
+congenital hypoplasia of the internal carotid artery
+displaced bucket handle tear of the medial meniscus
+femur stress fracture
+carcinoma, small cell
+hemangioma, soft-tissue
+cholesteatoma
+simple bone cyst, pathologic fracture
+rectus hematoma
+metastatic disease
+lesions of external auditory (ear) canal
+venous thromboembolism (vte)
+mixed germ cell tumors of the testicle
+wilms tumor
+benign biliary stricture
+cardiac tamponade
+femur, fracture, intertrochanteric
+constipation
+right c6 radiculopathy and ankylosing spondylitis
+mallet finger
+liponeurocytoma
+calcaneal fracture
+dural sinus thrombosis (transverse sinus)
+duodenal web
+intrathoracic kidney
+medullary sponge kidney (msk)
+pneumothorax: atypical signs
+right sided aortic arch
+choledocholithiasis and biliary obstruction: a complication of sickle-cell disease.
+metatarsals
+subgaleal hemorrhage
+glomus tumor, paraganglioma, chemodectoma
+cephalohematoma
+hepatic fatty infiltration with focal sparing
+unilateral coronal synostosis
+spontaneous pneumocephalus
+endometrial polyp
+left pica infarct
+parathyroid hyperplasia
+osteochondritis dessicans of the distal femur
+malignant melanoma
+orbital venous varix, right side
+orbit, ┬áhemangioma
+medulloblastoma (pnet)
+subdural empyema ┬áand epidural empyema
+scfe (slipped capital femoral epiphysis)
+ileo-colic (ileo-cecal) intussusception
+osteochondroma
+stress fracture/march fracture
+stroke, ischemic infarction
+peripheral vascular disease s/p atherectomy
+spondylolysis and spondylolithesis
+left superior vena cava
+lymphangioma
+pulmonary lymphangioleiomyomatosis (lam)
+calcaneocuboid coalition
+lumbosacral dysgenesis (syndrome of caudal regression).
+ocular ┬ámelanoma
+marchiafava bignami disease
+esophageal leiomyoma
+posterior cerebral artery infarction
+non-hodgkins lymphoma of the small bowel
+pulmonary sarcoidosis
+embryonal rhabdomyosarcoma
+olfactory neuroblastoma (esthesioneuroblastoma)
+chrohn's disease
+avascular necrosis of the femoral head
+cricopharyngeal achalasia
+transdural spinal cord herniation
+osmotic myelinolysis, central pontine myelinolysis
+cavernous malformation, ┬áthoracic spinal cord
+thyroid goiter
+peritoneal mesothelioma
+cavernoma
+sickle cell disease
+esophageal foreign body - coin ingestion
+metastatic breast cancer
+pancreatic divisum
+giant intracranial aneurysm
+meningeal hemangiopericytoma
+acute appendicitis with an appendicolith
+asbestos pleural plaques
+vasospasm, subarachnoid hemorrhage
+jugular foramen mass
+para-ovarian cyst
+colles' fracture
+abdominoscrotal hydrocele
+multiple aneurysm, cerebral
+basilar tip aneurysm
+os odontoideum
+chance fracture
+intracranial epidermoid tumor
+hydroxyapatite deposition disease
+scleroderma
+jefferson fracture
+mucinous degeneration of the anterior cruciate ligament
+complicated cholecystitis: ┬ágangrenous cholecystitis with focal perforation and pericholecystic abscess
+gardner's syndrome complicated by desmoid tumor
+dural metastases, prostate cancer
+myelolipoma
+hemangiopericytoma
+vertebral artery dissection with cerebellar infarcts
+anomalous right subclavian artery (and large right cardiac fat pad)
+hyperflexion injury of the thoracic spine
+hill sachs lesion
+fat embolism with cerebral infarction
+occipital condyle fractures
+hemophilia
+squamous cell carcinoma
+diffuse large cell lymphoma
+osteochondral loose body
+graves disease
+stress fracture of the distal fibula
+hepatocellular carcinoma
+vertebral osteomyelitis and diskitis
+unicameral bone cyst with pathologic fracture
+posterior reversible leukoencephalopathy, pres
+dysgenesis of the corpus callosum with a lipoma
+arteriovenous malformation (avm) with large aneurysm.
+charge synrome
+intraosseous lipoma of the distal femur
+metastatic ductal carcinoma (breast)
+lipoma arborescens
+colloid cyst, neuroepithelial cyst
+castleman disease
+abdominal compartment syndrome
+bicornuate uterus
+takayasu's arteritis
+porcelain gallbladder
+colorectal adenocarcinoma with mets to liver
+satisfaction of search, double aortic arch with 3d reconstruction, and incidental renal cell carcinoma
+calcium hydroxyapatite crystal deposition disease
+portal vein thrombosis
+renal malignancy
+multifocal bone infarcts (osteonecrosis) in a patient with systemic lupus erythematosus.
+left testicular mass
+intradural and extramedullary tumors
+bladder rupture
+subchorionic hemorrhage
+cerebral arteriovenous malformation (avm) dva pons
+duodenal diverticuli
+intramuscular hemangioma
+acute epidural hematoma
+vertebral basilar artery dissection with pontine infarct
+pleomorphic adenoma of the parotid gland
+femoral neck stress fractures
+dentigerous cyst
+cavitary lung nodule
+posterior cerebellar artery infarct
+subclavian vein stenosis
+right aortic arch with aberrant left subclavian artery
+developmental venous anomaly (dva) and cavernous malformation
+west nile encephalitis
+uterine lipoleiomyoma
+pontine glioma
+persistent left superior vena cava (plsvc)
+herpes simplex encephalitis.
+foreign body aspiration
+parasellar meningioma and arachnoid cyst
+cervical spine trauma
+ileal atresia
+brain death (nuclear medicine)
+epididymitis
+vein of galen malformation
+tethered spinal cord with terminal spinal lipoma.
+jejunal diverticulosis
+partial anomalous pulmonary venous return
+choledocholithiasis
+amebic meningoencephalitis
+primary biliary cirrhosis
+left superolateral major fissure
+adrenal mass
+lesser trochanter avulsion fracture
+pulmonary embolism, right heart strain
+vascular ring
+ct guided lung biopsy
+fitz-hugh curtis syndrome
+massive pulmonary embolism
+developmental venous anomaly (dva or venous angioma)
+atrial septal defect
+situs inversus
+chiari ii
+ependymoma, spinal
+thymoma
+hydropneumothorax
+swallowed foreign body
+post-catheterization pseudoaneurysm
+necrotizing enterocolitis
+intrauterine devices
+deep venous thrombosis and pulmonary embolism
+lung metastasis
+subdural hematoma
+arcuate uterus
+orbital nodular fasciitis
+acute otomastoiditis
+amyand's hernia
+juvenile polyposis syndrome
+renal cell carcinoma lytic bone metastasis
+posterior urethral valve
+boxer's fracture
+pseudoarthrosis after anterior cervical discectomy and fusion (acdf)
+ovarian teratoma
+brain meningioma
+echinococcal cyst (hydatid disease) of the liver
+spinal cord abscess
+picc complication.
+lumbar nerve root avulsion
+wegeners granulomatosis
+aneurysmal bone cyst
+wilmsΓÇÖ tumor (nephroblastoma)
+proptosis and orbital masses in children, optic nerve glioma
+hypertensive basal ganglia hemorrhage
+trisomy 18
+post inflammatory cystic changes secondary to severe community acquired pneumonia.
+bone island
+gemistocytic astrocytoma
+mrsa pneumonia complicated by empyema
+crohn's disease on pet and tc-99m hmpao tagged wbc scanning
+extramedullary hematopoiesis
+gastric inflammatory fibroid polyp
+subtalar dislocation
+facial nerve schwannoma
+mixed ovarian germ cell tumor
+hemorrhagic contusion
+scaphoid fracture
+tricholemmoma
+dilated (congestive) cardiomyopathy
+jones fracture and dancer's fracture
+lymphoma involving breast lymph nodes
+giant placental chorioangioma
+abdominal aortic aneurysm
+duodenal lipoma
+hepatic artery chemoembolization
+dural sinus thrombosis, transverse and sigmoid sinus
+breast hamartoma (fibroadenolipoma)
+epidermoid cyst of the testis
+stress fracture
+anoxic (hypoxic) injury
+hematoma, testicular
+cuneiform stress fracture
+optic glioma
+the wall-echo-shadow (wes) sign
+psoas abscess
+obstruction and isolation of the right posterior sectoral duct and its radicals from the remainder of the biliary system
+osteopoikilosis sclerosing bone dysplasias
+transient patellar dislocation
+fat necrosis
+retroodontoid pseudotumor
+cortical dysplasia: pachygyria with schizencephaly spastic cerebral palsy central hypothyroidism
+clear cell chondrosarcoma
+periosteal chondroma
+pediatric elbow fractures
+cirrhosis
+optic gliomas in a patient with neurofibromatosis 1.
+fracture of the trapezium
+deep venous thrombosis?
+anterior dislocation of the shoulder
+tibial plateau fracture
+interstitial pulmonary edema
+facial nerve hemangioma
+syrinx associated with chiari i malformation
+fibrous tumor of the pleura
+crohn disease
+congenital cystic adenomatoid malformation
+avascular necrosis of hip
+atrial septal defect (asd)
+pineal cyst
+vertebral ┬ádiscitis progressed to osteomyelitis
+moyamoya
+miliary nodular interstitial pattern (lung)
+pyogenic discitis
+1. bennett's fracture 2. multiple growth arrest lines
+endograft leak
+acute ischemic stroke, ct perfusion imaging
+desmoplastic infantile ganglioglioma
+pneumoperitoneum
+traumatic pneumothorax
+askin tumor of chest wall
+chiari i with cervical spine syrinx.
+superior sagittal sinus thrombosis
+developmental dysplasia of the hip
+pachygyria with schizencephaly
+paget's disease
+biliary leak
+siliconomas: ┬ásilicone granulomas from silicone breast augmentation
+transposition of the great vessels
+virilized urogenital sinus
+desmoplastic small round cell tumor
+macrodystrophia lipomatosa
+medulloblastoma with continuous spinal drop metastasis
+cerebellar hemorrhage in the preterm infant.
+von meyenburg complex - multiple biliary hamartomas
+acute myocarditis
+frontoethmoidal mucopyocele
+giant cell astrocytoma in tuberous sclerosis
+carotid dissection
+osteoarthritis of the hips bilaterally, secondary to slipped capital femoral epiphyses.
+fabry disease
+neuroma
+butterfly fragment subtype of comminuted fracture.
+cholesterol granuloma
+brain stem astrocytoma
+interstitial fibrosis, end stage (honeycomb lung)
+osteopoikilosis
+epidermoid vs. arachnoid cyst
+nephrolithiasis - kidney stones
+atelectasis
+isolated (granulomatous) angiitis (boipsy proven). if you didn't make the diagnosis, don't fret! if you said "vasculitis", you pass!
+lymphoma, cns primary, pcnsl
+freiberg's infraction
+fracture dislocaton at thoraco-lumbar junction, resulting in spinal cord transection.
+hodgkin"s lymphoma
+retroperitoneal neoplasm
+hematosalpinx
+sparsely granulated growth hormone adenoma
+subclavian steal syndrome
+lateral pharyngeal pouches
+pleomorphic xanthoastrocytoma
+fibromatosis coli
+pineal, cysts
+cavernous malformation
+fat embolism, brain
+nephroblastomatosis
+acute calculous cholecystitis
+avm of the right posterior parietal lobe
+hypoparathyroidism
+uveal melanoma
+meniscal ossicle
+osteomyelitis following ingestion of foreign body (watch battery)
+lung, stage iiib adenocarcinoma
+anterior mediastinal teratoma
+orbital lymphoma, extraconal masses
+dermatomyositis
+silicone granulomas of the breast
+cavernous ┬áhemangioma and convexity meningioma
+cranial epidural abscess
+cleidocranial dysplasia
+right sided aortic arch with aberrant left subclavian artery.
+pancreatic ductal adenocarcinoma
+osteolysis of distal clavicle.
+leriche syndrome
+triplane fracture
+megacystis microcolon intestinal hypoperistalsis syndrome (mmihs)
+juvenile angiofibroma, nasal
+cocaine body packer syndrome
+diffuse idiopathic skeletal hyperostosis
+drowning, near drowning, salt water vs. fresh water
+drop metastases
+porcelain gallbladder. ┬ásecondary gallbladder carcinoma
+l4-l5 herniated disc with a sequestered fragment
+juvenile pilocytic astrocytoma (jpa)
+oΓÇÖdonahueΓÇÖs triad
+metastatic spread
+pneumothorax, anterior
+fahr disease
+capillary hemangioma
+heterotopic ossification
+cranial nerves
+gastric lymphoma
+right hip pain
+osteoid osteoma vs stress fracture
+ct evaluation of acute cholecystitis
+joubert syndrome
+holt-oram syndrome
+single gunshot wound to head
+renal osteodystrophy
+hemorrhage
+kienbock disease/lunatomalacia
+asbestos-related pleural disease
+tbi, brain contusion, longitudinal temporal bone fracture.
+left atrial enlargement
+bow hunter's syndrome (vertebral artery compression)
+lemierre's-like syndrome
+diabetic mastopathy
+hodgkin's lymphona-an anterior mediastinal mass
+bronchial arteriography for hemoptysis
+neurocysticercosis and ruptured subarachnoid aneurysm
+anterior cruciate ligament tear
+subclavian steal
+legg-calve-perthes disease
+ethylene glycol poisoning
+bilateral perched facets c5 c6 with spinal cord injury
+acute myelogenous leukemia (aml)
+scfe - slipped capital femoral epiphysis
+1. acute subdural hematomas (bilateral convexities, interhemispheric, tentorial leaf) 2. transtentorial herniation 3. traumatic subarachnoid hemorrhage.
+calvarial hemangioma
+polycystic ovary syndrome
+left ventricular aneurysm
+phalanx fractures
+primary pulmonary tuberculosis
+orbital osteoid osteoma
+hepatic abscesses
+bronchogenic carcinoma
+citrobacter koseri osteomyelitis/discitis
+tethered cord due to dorsal dermal sinus
+septate uterus
+diffuse rhabdomyosarcoma
+subarachnoid hemorrhage secondary to cerebral aneurysm
+primary adenocarcinoma of small bowel
+two vessel umbilical cord
+grade iii intraventricular hemorrhage with hydrocephalus and hematocrit effect.
+thymic neuroendocrine carcinoma (carcinoid).
+uip - usual interstitial pneumonia
+cortical dysplasia, pachygyria
+anterior mediastinal mass differential diagnosis
+enlarged vestibular aqueduct syndrome ("hydrops")
+posterior ulnar dislocation with coronoid process fracture
+small bowel obstruction secondary to adhesions
+thyroid nodules
+renal abscess with subsequent ultrasound-guided drainage
+tibial stress fracture
+benign adrenal adenoma
+epidural empyema
+pineoblastoma
+bilateral sacral fractures
+non-pathologic age-related changes in the pa and lateral cxr
+tethered spinal cord with terminal spinal lipoma
+trans-jugular intrahepatic portosystemic shunt
+stage i pulmonary sarcoidosis
+cavernous ┬áhemangioma
+bronchopleural fistula
+fracture of left 3rd, 4th, and 5th metatarsals.
+peripheral neurofibroma
+hydrocephalus
+pulmonary arteriovenous malformation (pavm)
+tornwaldt cyst
+ct halo sign
+chondroblastoma
+hemochromatosis, hepatocellular carcinoma, hcc
+choroidal fissure cyst
+mixed germ cell testicular tumor
+extramedullary-intradural arachnoid cyst
+elbow dislocation
+pneumopericardium
+scapular fracture
+myxofibrosarcoma
+tension pneumothorax
+1. mid-substance acl tear. 2. lateral capsular avulsion consistent with segond fracture
+clay shoveler's fracture
+portal hypertension
+orbital pseudotumor
+vertebral osteomyelitis/discitis
+holoprosencephaly, alobar
+achilles tendon rupture
+renal arteriovenous malformation
+postpartum cerebral angiopathy
+cryptococcus, cryptococcoma (presumed)
+mitral regurgitation
+gastric diverticulum
+asphyxiating thoracic dystrophy (jeune syndrome)
+rupture of proximal biceps brachii tendon long head rupture, with distal retraction
+incompetent cervix
+hypoplastic cervical pedicle c3 on right
+bilateral axillary lymphadenopathy
+unilteral facet dislocation with fracture c6-c7
+hematoma
+ascending thoracic aortic aneurysm
+pediatric meningioma
+myositis ossificans
+mondini deformity, incomplete partition type i.
+artificial cardiac valves
+tracheal bronchus
+occult stress fracture
+ivc filter migration
+lisfranc fracture-dislocation
+ollier's disease
+rhabdomyolysis
+zenker diverticulum
+extrinsic allergic alveolitis (hypersensitivity pneumonitis)
+neurocysticercosis
+tetralogy of fallot
+cns trauma
+triple phosphate renal calculus
+galeazzi fracture
+motor vehicle accidents and instrument failure
+testicular hydrocele, cyst and dilation of the rete testis
+quadriceps tendon tear
+triquetral fracture
+residual thymus in myasthenia gravis
+wegener's granulomatosis
+neurofibromatosis type 1 (nf1), right orbital plexiform neurofibroma, sphenoid wing hypoplasia, possible optic nerve glioma.
+glioma involving tectal plate
+primary intraocular lymphoma
+complete anterior cruciate ligament tear.
+atlanto-occipital disassociation
+linitis plastica (gastric cancer)
+colloid (mucinous)carcinoma
+parsonage-turner syndrome
+pneumothorax, with subcutaneous emphysema and pneumomediastinum
+orbital abscess with superior opthalmic vein thrombosis
+pituitary adenoma
+septic arthritis with lt hip effusion
+juvenile nasopharyngeal angiofibroma
+ossification of stylohyoid ligament
